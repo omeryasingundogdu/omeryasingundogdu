@@ -12,9 +12,4 @@
 <img src="https://raw.githubusercontent.com/omeryasingundogdu/omeryasingundogdu/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/omeryasingundogdu/count.svg?"  />
-</div>
-
 ###
